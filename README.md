@@ -1,9 +1,9 @@
 # NLP Demo
 
 ## Description
-ხდება პატარა პარაგრაფის დამუშავება და გაწმენდა.
-- პარაგრაფის წინადადებებად დაყოფა
-- წინადადების სიტყვებად დანაწევრება
+data processing and cleaning takes place.
+- division of paragraph into sentences
+- division of sentence into words
 - remove all tokens that are not alphabet
 - clean full text from spot_words
 - lemmatization
