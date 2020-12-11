@@ -14,7 +14,7 @@
 installing the NLTK packages
 ```bash
 pip install nltk
-pip instal spacy
+pip install spacy
 ```
 
 ## App
