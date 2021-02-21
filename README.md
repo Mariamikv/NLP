@@ -17,9 +17,7 @@ pip install nltk
 pip install spacy
 ```
 
-## App
-
-გასაშვებად გამოიყენედ შემდეგი კომანდი
+## Run
 
 ```bash
 pip install -r requirments.txt
